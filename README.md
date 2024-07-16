@@ -1,8 +1,8 @@
-# BCX GENAI SIMULATION
+# BCGX GENAI SIMULATION
 
 ## Overview
 
-The BCX GENAI SIMULATION is a prototype Python application designed to simulate a financial chatbot using natural language processing (NLP). It interprets predefined financial queries to retrieve and present data from a CSV file (`Book.csv`) containing financial metrics for companies like Microsoft, Tesla, and Apple across multiple years.
+The BCGX GENAI SIMULATION is a prototype Python application designed to simulate a financial chatbot using natural language processing (NLP). It interprets predefined financial queries to retrieve and present data from a CSV file (`Book.csv`) containing financial metrics for companies like Microsoft, Tesla, and Apple across multiple years.
 
 This simulation serves as an introductory project for understanding basic chatbot development principles, NLP techniques, and data retrieval functionalities.
 
